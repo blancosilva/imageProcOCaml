@@ -1,0 +1,2 @@
+set terminal postscript
+plot "data", 6.84415056961+0.404015924765*x
